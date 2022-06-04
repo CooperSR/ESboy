@@ -45,7 +45,7 @@ canvas {
 }
 
 .dropdownmenu {
-    background-color: #30A6E6;
+    background-color: #ffff00;
     position: absolute;
     width: 100%;
     box-shadow: 0 0px 5px #666;
@@ -78,11 +78,11 @@ canvas {
 }
 
 .dropdownmenu li:hover a {
-    background-color: #2184ba;
+    background-color: #ffff00;
 }
 
 .dropdownmenu li:hover a.title {
-    background-color: #30A6E6;
+    background-color: #ffff00;
 }
 
 #screen {
