@@ -33,8 +33,8 @@ body {
 }
 
 canvas {
-    width: 480px;
-    height: 432px;
+    width: 960px;
+    height: 864px;
     image-rendering: pixelated;
     background-color: #fbfbfb;
     border: 1px solid #ddd;
